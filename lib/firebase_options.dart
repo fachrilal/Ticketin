@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDFt9v_-pgLuLVg8w_CdLSpmGSAV_6hT64',
-    appId: '1:95420155329:web:19f3fcc52d5a9781d4db40',
-    messagingSenderId: '95420155329',
-    projectId: 'reservation-24f23',
-    authDomain: 'reservation-24f23.firebaseapp.com',
-    storageBucket: 'reservation-24f23.firebasestorage.app',
-    measurementId: 'G-YZSPWZB3DP',
+    apiKey: 'AIzaSyCIBKFFgd7_PysHz4ap7tbEX_krJ8CkRPU',
+    appId: '1:643538405051:web:773e00dfeede6aafb04b9e',
+    messagingSenderId: '643538405051',
+    projectId: 'ticektin',
+    authDomain: 'ticektin.firebaseapp.com',
+    storageBucket: 'ticektin.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDzKjutYK8wewHu4fqzQuFkzH4W02lkxCg',
-    appId: '1:95420155329:android:ea7b97c3ff000319d4db40',
-    messagingSenderId: '95420155329',
-    projectId: 'reservation-24f23',
-    storageBucket: 'reservation-24f23.firebasestorage.app',
+    apiKey: 'AIzaSyDCjXQ5B5F6sS62BCMMWKUJGW5zcCnsx1Q',
+    appId: '1:643538405051:android:a5d2e9684383fa5fb04b9e',
+    messagingSenderId: '643538405051',
+    projectId: 'ticektin',
+    storageBucket: 'ticektin.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDGm_5OsVNvpEXOFbTveyXFx_4a0llUElQ',
-    appId: '1:95420155329:ios:b56a03f04276d5bad4db40',
-    messagingSenderId: '95420155329',
-    projectId: 'reservation-24f23',
-    storageBucket: 'reservation-24f23.firebasestorage.app',
+    apiKey: 'AIzaSyA6s6ikrQBoZXtgJFIgdJ9FqU9eAPYu2oY',
+    appId: '1:643538405051:ios:c3dbf7a340372e0db04b9e',
+    messagingSenderId: '643538405051',
+    projectId: 'ticektin',
+    storageBucket: 'ticektin.firebasestorage.app',
     iosBundleId: 'com.example.ticketin',
   );
+
 }

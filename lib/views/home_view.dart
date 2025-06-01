@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/ticket_model.dart';
-import '../services/firestore_service.dart';
+import '../service/firestore_service.dart';
 import '../widgets/ticket_card.dart';
 import 'payment_view.dart';
 

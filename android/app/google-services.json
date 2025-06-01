@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "95420155329",
-    "project_id": "reservation-24f23",
-    "storage_bucket": "reservation-24f23.firebasestorage.app"
+    "project_number": "643538405051",
+    "project_id": "ticektin",
+    "storage_bucket": "ticektin.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:95420155329:android:43440e3e5938d16bd4db40",
-        "android_client_info": {
-          "package_name": "com.example.reservation"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDzKjutYK8wewHu4fqzQuFkzH4W02lkxCg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:95420155329:android:ea7b97c3ff000319d4db40",
+        "mobilesdk_app_id": "1:643538405051:android:a5d2e9684383fa5fb04b9e",
         "android_client_info": {
           "package_name": "com.example.ticketin"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzKjutYK8wewHu4fqzQuFkzH4W02lkxCg"
+          "current_key": "AIzaSyDCjXQ5B5F6sS62BCMMWKUJGW5zcCnsx1Q"
         }
       ],
       "services": {
